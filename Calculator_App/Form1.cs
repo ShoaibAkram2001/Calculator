@@ -185,5 +185,15 @@ namespace Calculator_App
 
             textBox1.Text = "";
         }
+
+        private void label2_Click_1(object sender, EventArgs e)
+        {
+
+        }
+
+        private void label3_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }
